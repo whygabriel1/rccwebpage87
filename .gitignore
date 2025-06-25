@@ -1,0 +1,16 @@
+# Node
+node_modules/
+npm-debug.log
+yarn-error.log
+dist/
+.env
+package-lock.json
+
+# VSCode
+.vscode/
+
+# Mac
+.DS_Store
+
+# Otros
+*.log
